@@ -13,5 +13,5 @@ function printString(text) {
 }
 
 function reverseString(text) {
-  
+  if ()
 }
