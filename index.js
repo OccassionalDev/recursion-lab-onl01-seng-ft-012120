@@ -8,6 +8,6 @@ function printString(text) {
     
     printString(newString);
   } else {
-    return true
+    return true;
   }
 }
