@@ -13,5 +13,9 @@ function printString(text) {
 }
 
 function reverseString(text) {
-  if ()
+  if (text.length > 2) {
+    reverseString(text.substring(0) + text.substring[0])
+  } else {
+    return true
+  }
 }
