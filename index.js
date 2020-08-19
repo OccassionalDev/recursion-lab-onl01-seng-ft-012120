@@ -11,3 +11,11 @@ function printString(text) {
     return true;
   }
 }
+
+function reverseString(text) {
+  console.log(text[])
+  
+  if (text.length > 1) {
+    
+  }
+}
