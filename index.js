@@ -7,5 +7,7 @@ function printString(text) {
     let newString = text.substring(0, text.length);
     
     printString(newString);
+  } else {
+    return true
   }
 }
